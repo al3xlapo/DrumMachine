@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8c73b249.chunk.css",
+    "main.js": "./static/js/main.f527b9fb.chunk.js",
+    "main.js.map": "./static/js/main.f527b9fb.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.389ed694.js",
+    "runtime-main.js.map": "./static/js/runtime-main.389ed694.js.map",
+    "static/js/2.45301d41.chunk.js": "./static/js/2.45301d41.chunk.js",
+    "static/js/2.45301d41.chunk.js.map": "./static/js/2.45301d41.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9b3319d1ec295e83b5487e2ef518434b.js": "./precache-manifest.9b3319d1ec295e83b5487e2ef518434b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.8c73b249.chunk.css.map": "./static/css/main.8c73b249.chunk.css.map",
+    "static/js/2.45301d41.chunk.js.LICENSE.txt": "./static/js/2.45301d41.chunk.js.LICENSE.txt",
+    "static/media/808.wav": "./static/media/808.687c5c4e.wav",
+    "static/media/Clap.wav": "./static/media/Clap.9ece8ab8.wav",
+    "static/media/Crash.wav": "./static/media/Crash.f8ab9810.wav",
+    "static/media/Hihat.wav": "./static/media/Hihat.a7941fdf.wav",
+    "static/media/Kick.wav": "./static/media/Kick.528d5088.wav",
+    "static/media/Open-Hat.wav": "./static/media/Open-Hat.01638a64.wav",
+    "static/media/Perc.wav": "./static/media/Perc.cff7c462.wav",
+    "static/media/Perc2.wav": "./static/media/Perc2.143d1996.wav",
+    "static/media/Snare.wav": "./static/media/Snare.79aba21f.wav",
+    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.389ed694.js",
+    "static/js/2.45301d41.chunk.js",
+    "static/css/main.8c73b249.chunk.css",
+    "static/js/main.f527b9fb.chunk.js"
+  ]
+}
